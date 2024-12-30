@@ -344,3 +344,12 @@
    background-color: whitesmoke;}
 .j1{height: 100px; width: 1400px;}
 .j2{height: 300px; width: 1400px;}
+
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
