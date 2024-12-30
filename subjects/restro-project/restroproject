@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="web3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+    <div id="main">
+        <div id="first">
+            <div class="a">
+                <div class="a1">List<span style="color: red;">Race</span></div>
+                <div class="a11"></div>
+                <div class="a2"><a href="" style="text-decoration: none;">Home</a></div>
+                <div class="a3"><a href=""style="text-decoration: none;">How it work</a></div>
+                <div class="a4"><a href="about.html"style="text-decoration: none;">Explore</a></div>
+                <div class="a5"><a href=""style="text-decoration: none;">Review</a></div>
+                <div class="a6"><a href=""style="text-decoration: none;">Blog</a></div>
+                <div class="a7"><a href=""style="text-decoration: none;">Contact</a></div>
+
+            </div>
+        </div>
+        <div id="second">
+            <p align="center" style="font-size: 40px; margin-top: 30px;">BEST PLACE TO FIND AND EXPLORE</p>
+            <p align="center" style="font-size: 35px;margin-top: -25px;">THAT ALL YOU NEED</p>
+            <p align="center" style="font-size: 20px;">Find Best Place, Restaurant, Hotel, Real State and many more think in just One click</p>`
+        </div>
+        <div id="third">
+            <div class="Boxes">
+               <div><img src="restaurant (1).png" style="height: 50px; margin-top: 10px;"><br>Restaurant<br><span style="font-size: 20px;">150 listing</span></div>
+               <div><img src="school-bag.png" alt="" style="height: 50px; margin-top: 10px;"><br>Destination<br><span style="font-size: 20px;">214 listing</span></div>
+               <div><img src="hotel.png" alt="" style="height: 50px; margin-top: 10px;"><br>Hotel<br><span style="font-size: 20px;">185 listing</span></div>
+               <div><img src="medicine.png" alt=""style="height: 50px; margin-top: 10px;"><br>HealthCare<br><span style="font-size: 20px;">200 listing</span></div>
+               <div><img src="transport.png" alt=""style="height: 50px; margin-top: 10px;"><br>Automotion<br><span style="font-size: 20px;">120 listing</span></div>
+            </div>
+        </div>
+        <div id="fourth">
+            <h1 align="center" style="padding-top: 50px;">HOW IT WORKS</h1>
+            <p align="center">Learn More about how our website works</p>
+        </div>
+        <div id="fifth">
+            <div class="f5">
+                <div><i class="fa-solid fa-lightbulb" style="font-size: 50px; margin-left: 130px; margin-top: 50px;"></i><h2 align="center">Choose what to Do</h2><p style="text-align: center;">Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt ut laboremagna aliqua.</p><input type="button" value="Read More" style="margin-left: 100px; margin-top: 20px; width: 100px; height: 40px;"></div>
+                <div><i class="fa-solid fa-car-side" style="font-size: 50px; margin-left: 130px; margin-top: 50px;"></i><h2 align="center">Find what you want</h2><p style="text-align: center;">Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt ut laboremagna aliqua.</p><input type="button" value="Read More" style="margin-left: 100px; margin-top: 20px;width: 100px; height: 40px;"></div>
+                <div><i class="fa-solid fa-lightbulb" style="font-size: 50px; margin-left: 130px; margin-top: 50px;"></i><h2 align="center">Explore amazing Place</h2><p style="text-align: center;">Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt ut laboremagna aliqua.</p><input type="button" value="Read More" style="margin-left: 100px; margin-top: 20px;width: 100px; height: 40px;"></div>
+            </div>
+        </div>
+        <div id="sixth">
+            <h1 align="center">EXPLORE</h1>
+            <p align="center">Explore New place, food, culture around the world and many more</p>
+            <div class="s1">
+                <div>
+                    <img src="tommy hilfinger bar.webp" style="height:200px;width: 400px;" alt="">
+                    <div class="s11"><span style="font-size: 25px; font-weight: bold;margin-left: 10px;">Tommy Hilfinger Bar</span></div>   
+                    <div class="s12">
+                        <div class="s121">
+                            <div style="height: 25px; width:35px;text-align: center; background-color: rgb(75, 75, 251); border-radius: 10px;padding-top: 10px;margin-left: 5px;margin-top: 3px; float: left;">5.0</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">10k Ratings</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">Form 5$-300$</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; text-align: center;">Resturent</div>
+                        </div>
+                        <div class="s122">
+                            <div style="height: 90px;width: 80px;float: left;"><img src="C:/Users/patil/Downloads/pexels-pixabay-45201.jpg" style="height: 70px;width: 70px; margin-top: 10px;margin-left: 10px;border-radius: 50%; float: left;"></div>
+                            <div style="height:90px;width: 300px;float: left;"><p style="text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua....</p></div>
+                        </div>
+                        <hr style="width:380px;">
+                        <div class="s123">
+                            <div style="height: 60px; width: 230px;padding-top: 20px;padding-left: 10px;float: left;"><a href="" style="text-decoration: none; color: red;">Close Now</a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href="#"><i class="fa-solid fa-location-dot" style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-solid fa-arrow-up-from-bracket"style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-regular fa-heart"style="font-size: 20px; color: black;"></i></a></div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <img src="swim and dine resort.jpg"style="height:200px;width: 400px;" alt="">
+                    <div class="s21"><span style="font-size: 25px; font-weight: bold;margin-left: 10px;">Swim And Dine Resort</span></div>   
+                    <div class="s22">
+                        <div class="s211">
+                            <div style="height: 25px; width:35px;text-align: center; background-color: rgb(4, 118, 52); border-radius: 10px;padding-top: 10px;margin-left: 5px;margin-top: 3px; float: left;">4.5</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">10k Ratings</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">50$-500$</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; text-align: center;">Hotel</div>
+                        </div>
+                        <div class="s212">
+                            <div style="height: 90px;width: 80px;float: left;"><img src="C:/Users/patil/Downloads/pexels-pixabay-45201.jpg" style="height: 70px;width: 70px; margin-top: 10px;margin-left: 10px;border-radius: 50%; float: left;"></div>
+                            <div style="height:90px;width: 300px;float: left;"><p style="text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua....</p></div>
+                        </div>
+                        <hr style="width:380px;">
+                        <div class="s213">
+                            <div style="height: 60px; width: 230px;padding-top: 20px;padding-left: 10px;float: left;"><a href="" style="text-decoration: none; color: red;">Close Now</a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href="#"><i class="fa-solid fa-location-dot" style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-solid fa-arrow-up-from-bracket"style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-regular fa-heart"style="font-size: 20px; color: black;"></i></a></div>
+                        </div>
+                    </div>
+
+                </div>
+                <div>
+                    <img src="art.jpg"style="height:200px;width: 400px;" alt="">
+                    <div class="s31"><span style="font-size: 25px; font-weight: bold;margin-left: 10px;">Europe Tour</span></div>   
+                    <div class="s32">
+                        <div class="s321">
+                            <div style="height: 25px; width:35px;text-align: center; background-color:yellow; border-radius: 10px;padding-top: 10px;margin-left: 5px;margin-top: 3px; float: left;">5.0</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">10k Ratings</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">Form 5k$-10k$</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; text-align: center;">Destination</div>
+                        </div>
+                        <div class="s322">
+                            <div style="height: 90px;width: 80px;float: left;"><img src="C:/Users/patil/Downloads/pexels-pixabay-45201.jpg" style="height: 70px;width: 70px; margin-top: 10px;margin-left: 10px;border-radius: 50%; float: left;"></div>
+                            <div style="height:90px;width: 300px;float: left;"><p style="text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua....</p></div>
+                        </div>
+                        <hr style="width:380px;">
+                        <div class="s323">
+                            <div style="height: 60px; width: 230px;padding-top: 20px;padding-left: 10px;float: left;"><a href="" style="text-decoration: none; color: red;">Close Now</a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href="#"><i class="fa-solid fa-location-dot" style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-solid fa-arrow-up-from-bracket"style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-regular fa-heart"style="font-size: 20px; color: black;"></i></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="s2">
+                <div>
+                    <img src="banglow with pool.jpeg"style="height:200px;width: 400px;" alt="">
+                    <div class="s41"><span style="font-size: 25px; font-weight: bold;margin-left: 10px;">Bungalow With Swimming Pool</span></div>   
+                    <div class="s42">
+                        <div class="s421">
+                            <div style="height: 25px; width:35px;text-align: center; background-color:violet; border-radius: 10px;padding-top: 10px;margin-left: 5px;margin-top: 3px; float: left;">4.5</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">10k Ratings</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">Form 10k$-15k$</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; text-align: center;"> Real Estate</div>
+                        </div>
+                        <div class="s422">
+                            <div style="height: 90px;width: 80px;float: left;"><img src="pexels-pixabay-45201.jpg" style="height: 70px;width: 70px; margin-top: 10px;margin-left: 10px;border-radius: 50%; float: left;"></div>
+                            <div style="height:90px;width: 300px;float: left;"><p style="text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua....</p></div>
+                        </div>
+                        <hr style="width:380px;">
+                        <div class="s423">
+                            <div style="height: 60px; width: 230px;padding-top: 20px;padding-left: 10px;float: left;"><a href="" style="text-decoration: none; color: red;">Close Now</a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href="#"><i class="fa-solid fa-location-dot" style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-solid fa-arrow-up-from-bracket"style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-regular fa-heart"style="font-size: 20px; color: black;"></i></a></div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <img src="Vintage-Car.jpg"style="height:200px;width: 400px;" alt="">
+                    <div class="s51"><span style="font-size: 25px; font-weight: bold;margin-left: 10px;">Vintage Car Expo</span></div>   
+                    <div class="s52">
+                        <div class="s521">
+                            <div style="height: 25px; width:35px;text-align: center; background-color: rgb(4, 118, 52); border-radius: 10px;padding-top: 10px;margin-left: 5px;margin-top: 3px; float: left;">4.5</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">10k Ratings</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 0px; border-right: 2px solid grey;text-align: center;">Form 500$-1200$</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; text-align: center;">Automotion</div>
+                        </div>
+                        <div class="s522">
+                            <div style="height: 90px;width: 80px;float: left;"><img src="pexels-pixabay-45201.jpg" style="height: 70px;width: 70px; margin-top: 10px;margin-left: 10px;border-radius: 50%; float: left;"></div>
+                            <div style="height:90px;width: 300px;float: left;"><p style="text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua....</p></div>
+                        </div>
+                        <hr style="width:380px;">
+                        <div class="s523">
+                            <div style="height: 60px; width: 230px;padding-top: 20px;padding-left: 10px;float: left;"><a href="" style="text-decoration: none; color: red;">Close Now</a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href="#"><i class="fa-solid fa-location-dot" style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-solid fa-arrow-up-from-bracket"style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-regular fa-heart"style="font-size: 20px; color: black;"></i></a></div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <img src="thailand tour.jpeg"style="height:200px;width: 400px;" alt="">
+                    <div class="s61"><span style="font-size: 25px; font-weight: bold;margin-left: 10px;">Thailand Tour</span></div>   
+                    <div class="s62">
+                        <div class="s621">
+                            <div style="height: 25px; width:35px;text-align: center; background-color:orange; border-radius: 10px;padding-top: 10px;margin-left: 5px;margin-top: 3px; float: left;">5.0</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">10k Ratings</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; border-right: 2px solid grey;text-align: center;">Form 5k$-10k$</div>
+                            <div style="height: 25px;width: 110px;float: left;margin-top: 3px; margin-left: 5px;padding-top: 8px; text-align: center;">Destination</div>
+                        </div>
+                        <div class="s622">
+                            <div style="height: 90px;width: 80px;float: left;"><img src="pexels-pixabay-45201.jpg" style="height: 70px;width: 70px; margin-top: 10px;margin-left: 10px;border-radius: 50%; float: left;"></div>
+                            <div style="height:90px;width: 300px;float: left;"><p style="text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua....</p></div>
+                        </div>
+                        <hr style="width:380px;">
+                        <div class="s623">
+                            <div style="height: 60px; width: 230px;padding-top: 20px;padding-left: 10px;float: left;"><a href="" style="text-decoration: none; color: red;">Close Now</a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href="#"><i class="fa-solid fa-location-dot" style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-solid fa-arrow-up-from-bracket"style="font-size: 20px; color: black;"></i></a></div>
+                            <div style="height: 60px; width: 50px;padding-top: 20px;float: left;"><a href=""><i class="fa-regular fa-heart"style="font-size: 20px; color: black;"></i></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="seven">
+            <div class="g1">
+                <div class="g11">90K+<div style=" font-size: 20px; color: rgb(169, 70, 70);">Listings</div></div>
+                <div class="g11">40K+<div style=" font-size: 20px; color: rgb(169, 70, 70);">Listing Categories</div></div>
+                <div class="g11">65K+<div style=" font-size: 20px; color: rgb(169, 70, 70);">Visitors</div></div>
+                <div class="g11">50K+<div style=" font-size: 20px; color: rgb(169, 70, 70);">Happy Clients</div></div>
+            </div>
+        </div>
+
+        <div id="ninth">
+            <div class="j1"></div>
+            <div class="j2">
+                <h2 align="center">DO YOU WANT TO ADD YOUR BUSSINESS LISTING WITH US?</h2>
+                <h3 align="center" style="color:  rgb(214, 52, 84);">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis, eveniet amet maiores necessitatibus </h3>
+                <input type="email" style="height: 35px; width: 500px; border-radius: 2px; font-family: 'Trebuchet MS'; font-size: larger; margin-left: 390px;"><button style="color: white; background-color: rgb(190, 72, 93); font-size: 15px; border-radius: 2px; padding-left: 10px; height: 40px; width: 150px;">Create Account</button>
+            </div>
+        </div>
+        </div>
+
+    </div>
+</body>
+</html>
