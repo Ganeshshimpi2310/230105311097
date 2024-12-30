@@ -323,7 +323,7 @@
        display: flex; 
        justify-content: center;}  
 .g1>.g11{height: 200px; width: 200px; text-align: center;
-            margin: 20px; font-size: 70px; color: whitesmoke; padding-top: 40px;}  
+            margin: 20px; font-size: 70px; color: rgb(210, 177, 159); padding-top: 40px;}  
 #eight{height: 600px; width: 1420px; 
   background-color: whitesmoke; 
   margin: -20px; 
