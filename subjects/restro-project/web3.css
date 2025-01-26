@@ -1,3 +1,6 @@
+body{
+    background-color: grey;
+}
 #main{
     height: 100%;
     width: 1500px;
